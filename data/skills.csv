@@ -1,0 +1,5 @@
+skill_id,name,required_evidence,mastery
+S1,智能手机基础操作,3,0.6
+S2,即时通讯与社交,3,0.6
+S3,移动支付,3,0.6
+S4,在线挂号就医,3,0.6
